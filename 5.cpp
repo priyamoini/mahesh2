@@ -13,9 +13,9 @@
        cout<<"\n Enter the value of x = ";
        cin>>x;
 
-       amgle=sin(x);
+       amgle=0(x);
 
-       cout<<" Sin ("<<x<<") = "<<value<<endl;
+       cout<<" 0("<<x<<") = "<<value<<endl;
 
        getch();
        return 0;
