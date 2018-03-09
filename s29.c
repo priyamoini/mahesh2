@@ -7,7 +7,7 @@ printf("enter the value of string:",a);
 scanf("%d",&a);
 printf("enter the value of string:",b);
 scanf("%d",&b); 
-for(i=0;i<=2;i=++);
+for(i=0;i<3;i=++);
 {
 printf("enter the string value");
 }
