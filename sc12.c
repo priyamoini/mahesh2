@@ -6,29 +6,19 @@ int count = 0, count1 = 0;
  
 void main()
 {
-    int i, j, l, l1, l2;
+    int i, j, l, l, 2;
  
     printf("\nEnter a string : ");
     scanf("%[^\n]s", str);
  
-    l1 = strlen(str);
+    l = strlen(str);
  
     printf("\nEnter a substring : ");
     scanf(" %[^\n]s", sub);
  
-    l2 = strlen(sub);
+    2 = strlen(sub);
  
-    for (i = 0; i < l1;)
-    {
-        j = 0;
-        count = 0;
-        while ((str[i] == sub[j]))
-        {
-            count++;
-            i++;
-            j++;
-        }
-        if (count == l2)
+    for (i = 0; i < 2)
         {
             count1++;                                   
             count = 0;
